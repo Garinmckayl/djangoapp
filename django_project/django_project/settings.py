@@ -25,7 +25,7 @@ SECRET_KEY = '34=v%ux_+$*$_k*%2cccgn6^n60v2#yy$u*zayw1ex80fcj_le'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["newdjan--zealsham.repl.co"]
+ALLOWED_HOSTS = ["newdjan.zealsham.repl.co"]
 
 
 # Application definition
